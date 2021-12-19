@@ -1,0 +1,24 @@
+	WINDOWS
+dir - listar pastas
+cd - mudar diretório (cd “Nome da pasta”)
+cd .. - volta um nível na pasta
+cls - limpa o terminal
+mkdir - criar pastas
+del - deleta arquivos da pasta
+rmdir /S /Q - deleta pastas (repositórios)
+git init - 
+git add - 
+git commit -m - 
+git push origin master - mandar pro GitHub
+git pull origin master - puxar do GitHub para a máquina 
+
+
+	LINUX
+ls - listar pastas
+cd - mudar diretório (cd “Nome da pasta”)
+cd .. - volta um nível na pasta
+clear ou ctrl + L - limpa o terminal
+mkdir - criar pastas
+rm -rf  - deleta pastas (repositórios)
+
+
